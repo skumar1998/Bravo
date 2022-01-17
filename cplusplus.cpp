@@ -3,6 +3,7 @@ using namespace std;
 #define Area(l,b) (l*b)
 int main()
 {
+	cout<<"IAG"<<endl;
     cout<<"Indian AIr FOrce"<<endl;
     int a,b;
     cout<<"Enter the value of A:";
