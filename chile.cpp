@@ -2,6 +2,9 @@
 using namespace std;
 int main()
 {
-	cout<<"Aalo"<<endl;
+	cout<<"Enter your name"<<endl;
+	string name;
+	getline(cin,name);
+	cout<<name<<endl;
 	return 0;
 }
